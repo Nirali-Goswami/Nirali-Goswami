@@ -64,3 +64,15 @@
   <b>✨ Learn • Grow • Build • Achieve ✨</b>
 </p>
 
+### 🚀 Collaborative Projects
+
+**Skillify – Skill Exchange and Careers**
+
+A collaborative platform combining a job portal and skill-exchange system.
+
+**Technologies:** HTML, CSS, Bootstrap, JavaScript, PHP, MySQL.
+
+**My Contribution:** Worked collaboratively on project development, implementation and integration.
+
+**Repository:** [View Skillify](https://github.com/vrajsutariya/Skillify)
+
